@@ -30,6 +30,15 @@
 	color: white !important;
 }
 
+.img-px {
+	width: 60%;
+	
+}
+
+textarea {
+	resize: none;
+	margin-top: 1.5rem;
+}
 
 
 @media screen and (min-width: 768px) {
@@ -46,4 +55,7 @@
 		padding: 0px;
 	}
 
+	.img-px {
+		width: 100%;
+	}
 }
