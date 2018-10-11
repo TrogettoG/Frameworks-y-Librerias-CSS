@@ -47,6 +47,7 @@ textarea {
 
 .h-search {
 	display: none !important;
+	padding: 0 2rem;
 }
 
 .m-table {
