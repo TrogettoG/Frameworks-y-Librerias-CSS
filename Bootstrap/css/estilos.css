@@ -46,7 +46,11 @@ textarea {
 }
 
 .h-search {
-	display: none;
+	display: none !important;
+}
+
+.m-table {
+	margin-top: 2rem;
 }
 
 
@@ -69,6 +73,6 @@ textarea {
 	}
 
 	.h-search {
-		display: inline;
+		display: inline !important;
 	}
 }
