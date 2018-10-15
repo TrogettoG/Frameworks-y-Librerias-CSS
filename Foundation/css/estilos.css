@@ -2,14 +2,39 @@ textarea {
 	resize: none;
 }
 
+
+
+.title-bg {
+	font-size: 3em;
+}
+
+.container {
+	background-color: #C5E1A5;
+}
+
+.nav-column {
+	background-color: #F1F8E9;
+	margin-top: 10px;
+	border-radius: 5px;
+	padding-top: 1rem;
+	padding: 15px;
+}
+
+.pub-color {
+	background-color:#AED581;
+	margin-top: 10px;
+	border-radius: 5px;
+	padding: 1rem !important;
+	margin-bottom: 0.5rem;	
+}
+
 .side-nav {
 	list-style-type: none;
 	margin-left: 0 !important;
 }
 
 .border-bt {
-	border-bottom: 1px solid black;
-	margin-bottom: 1rem;
+	border-bottom: 2px solid #33691E;
 	padding-top: 1rem;
 }
 
