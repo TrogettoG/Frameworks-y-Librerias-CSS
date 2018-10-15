@@ -3,3 +3,8 @@
 	margin-left: 0 !important;
 }
 
+.thumbnail{
+	max-width: 30%;
+	margin-left: 0.2rem;
+	margin-bottom: 0.5rem;
+}
