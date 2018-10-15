@@ -1,6 +1,7 @@
 textarea {
 	resize: none;
 }
+
 .side-nav {
 	list-style-type: none;
 	margin-left: 0 !important;
@@ -40,4 +41,26 @@ textarea {
 
 .list-group-item:hover, .list-group-item:focus {
 	background-color: #e6e6e6;
+}
+
+.comment-autor{
+	display: flex;
+	align-items: center;
+	margin-bottom: 1rem;
+}
+
+.comment-name {
+	margin-left: 1rem;
+
+	p {
+      margin-bottom: 0;
+    }
+}
+
+.comment-text {
+	margin-bottom: 1.5rem;
+}
+
+.avatar-wd {
+	width: 80px;
 }
