@@ -1,12 +1,25 @@
+textarea {
+	resize: none;
+}
 .side-nav {
 	list-style-type: none;
 	margin-left: 0 !important;
+}
+
+.border-bt {
+	border-bottom: 1px solid black;
+	margin-bottom: 1rem;
+	padding-top: 1rem;
 }
 
 .thumbnail{
 	max-width: 30%;
 	margin-left: 0.2rem;
 	margin-bottom: 0.5rem;
+}
+
+.th-wd {
+	max-width: 100%;
 }
 
 .list-group {
