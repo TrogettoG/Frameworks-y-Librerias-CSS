@@ -8,3 +8,14 @@
 	max-width: 150px !important;
 	font-style: italic;
 }
+
+.icon-wd{
+	width: 3rem;
+}
+
+.social-media {
+	margin-top: 150px;
+	position: fixed;
+}
+
+.fix-bottom
