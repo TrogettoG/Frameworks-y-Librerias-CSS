@@ -1,0 +1,10 @@
+.logo {
+	width: 4rem;
+}
+
+.text-nav {
+	margin-left: 6rem;
+	display: inline;
+	max-width: 150px !important;
+	font-style: italic;
+}
