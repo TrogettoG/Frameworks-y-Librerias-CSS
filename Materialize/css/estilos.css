@@ -9,8 +9,12 @@
 	font-style: italic;
 }
 
-.icon-wd{
+.icon-wdm{
 	width: 3rem;
+}
+
+.icon-wds{
+	width: 25px;
 }
 
 .social-media {
@@ -18,4 +22,33 @@
 	position: fixed;
 }
 
-.fix-bottom
+.btn-social-fix{
+	width: 100%;
+	margin: 0px;
+	border-radius: 0px !important;
+
+}
+
+.fix-bottom {
+	bottom: 0px;
+	position: fixed;
+	padding: 0 !important;
+	box-sizing: content-box !important;
+}
+
+.fix-bottom ul {
+	margin: 0px !important;
+}
+
+.fix-bottom a {
+	padding: 2px;
+}
+
+.fix-bottom li{
+	display: inline-block;
+	width: 19%;
+}
+
+.fix-bottom li img {
+	margin-top: 5px;
+}
