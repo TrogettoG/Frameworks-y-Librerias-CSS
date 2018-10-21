@@ -35,6 +35,7 @@
 	position: fixed;
 	padding: 0 !important;
 	box-sizing: content-box !important;
+	z-index: 5;
 }
 
 .fix-bottom ul {
@@ -52,4 +53,10 @@
 
 .fix-bottom li img {
 	margin-top: 5px;
+}
+
+.user-imgwd {
+	width: 100% !important;
+	margin-top: 1.5rem;
+	padding-right: 0.5rem;
 }
