@@ -1,3 +1,7 @@
+nav {
+	margin-bottom: 15px;
+}
+
 .logo {
 	width: 4rem;
 }
@@ -59,4 +63,33 @@
 	width: 100% !important;
 	margin-top: 1.5rem;
 	padding-right: 0.5rem;
+}
+
+
+.entrada-form {
+	margin-bottom: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.autor {
+	margin: 2.5rem 0 !important;
+	border-radius: 10px !important;
+	padding: 1rem !important;
+}
+
+.autor-img {
+	margin-top: 1rem;
+	width: 50%;
+}
+
+.autor-text {
+	padding: 1.5rem !important;
+}
+
+@media (min-width: 600px) {
+	
+.entrada {
+	padding-right: 2.5rem;
+}
+
 }
